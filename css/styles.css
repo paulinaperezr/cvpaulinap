@@ -1,0 +1,12 @@
+h1{color:#9400D3;}
+
+p{
+  font-size: 15px;
+  color: black;
+}
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
